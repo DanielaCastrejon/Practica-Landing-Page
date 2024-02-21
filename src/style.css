@@ -3,7 +3,7 @@
 /*   font-family: "Roboto", sans-serif;
 */
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -21,7 +21,7 @@ body {
 }
 
 .header {
-    background-image: url(images/Palmerita\ 🌴.jpeg);
+    background-image: url(images/d41050b9-9240-4485-80b0-b845b7a9275f.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -42,7 +42,7 @@ body {
 }
 
 .logo {
-    color: #FFFFFF;
+    color: #106038;
     font-size: 25px;
     font-weight: bold;
 }
@@ -55,13 +55,13 @@ body {
 .menu .navbar ul li a {
     font-size: 18px;
     padding: 20px;
-    color: #ffffff;
+    color: #1c5e3a;
     display: block;
     font-weight: bold;
 }
 
 .menu .navbar ul li a:hover {
-    color: #ffffff;
+    color: #f5f5f5;
 }
 
 .icons {
@@ -70,13 +70,13 @@ body {
 
 .icons i {
     font-size: 25px;
-    color: #ffffff;
+    color: #000000;
     margin-right: 15px;
     cursor: pointer;
 }
 
 .icons i:hover {
-    color: aquamarine;
+    color: #297b60;
 }
 
 #menu {
@@ -152,7 +152,7 @@ body {
     position: absolute;
     left: 20px;
     bottom: 20px;
-    color: rgb(226, 221, 221);
+    color: #cbcca0;
     font-family: "Roboto", sans-serif;
     font-size: 40px;
     text-transform: uppercase;
